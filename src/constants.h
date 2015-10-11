@@ -26,6 +26,6 @@ const bool kEnablePostProcess = true;
 const float kPostProcessThreshold = 0.97;
 
 // Eye Corner
-const bool kEnableEyeCorner = false;
+const bool kEnableEyeCorner = true;
 
 #endif
